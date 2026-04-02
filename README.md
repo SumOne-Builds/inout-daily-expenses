@@ -42,7 +42,7 @@ npm install && npm run dev
 
 ## 🚀 Quick Start
 ```bash
-git clone <repo>
+git clone https://github.com/SumOne-Builds/inout-daily-expenses
 cd inout-daily-expenses  
 npm install
 npm run dev      # Development
